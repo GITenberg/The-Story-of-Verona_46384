@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '43754'
     url: http://www.gutenberg.org/2009/agents/43754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46384#The-Story-of-Verona
 gutenberg_bookshelf: Mediæval Town Series
 gutenberg_issued: '2014-07-23'
 gutenberg_type: Text
